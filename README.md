@@ -1,2 +1,2 @@
-# SmartNotes
-The note taking application
+## SmartNotes
+#The note taking application
