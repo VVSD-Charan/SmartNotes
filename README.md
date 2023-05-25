@@ -6,6 +6,14 @@ It's a user-friendly website that empowers you to effortlessly create, read, upd
 ### Tech Stack Used : HTML , CSS , PHP , SQL
 ### Frameworks used :  Bootstrap , DataTables (For responsive tables)
 
+## Instructions 
+<ul>
+<li>Add these files inside "Notes" folder since all directories in code used start from '/Notes/'.</li>
+<li>Make sure that the Notes folder is present in htdocs folder inside xampp folder if you are using xampp.</li>
+<li>Use "Import database" in MySQL and import the database provided in repository.</li> 
+<li>Make sure to change name of username in the code incase username is not root.</li>
+</ul> 
+
 ### Some of the images of website
 
 ## Website 
